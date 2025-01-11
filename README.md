@@ -71,4 +71,4 @@ This project simulates an incident response workflow by building malicious execu
 - Analyze system logs to identify unauthorized activities.
 
 ## Documentation
-Refer to the [Incident Response Procedures Guide](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Incident%20Reponse%20Procedures.docx) for detailed instructions.
+Refer to the [Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures/blob/main/Incident%20Reponse%20Procedures.docx)
